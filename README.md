@@ -1,1 +1,1 @@
-# CKD-Predection-using-machine-learning
+# CKD-Prediction-using-machine-learning
